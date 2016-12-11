@@ -342,6 +342,9 @@
 			"jarName": "Punishment.jar",
 			"configName": "Punishment",
 			"requiredRank": "2"
-		}
-	]
-}
+	        },
+		{
+			"name":"WorldEdit",
+			"desc": "To Edit Your World With Wand
+			"jarName": "WorldEdit.jar",
+			"configName: "WorldEdit",
